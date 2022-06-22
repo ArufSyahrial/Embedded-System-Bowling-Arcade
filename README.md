@@ -1,4 +1,4 @@
-# Embedded System Bowling Arcade
+# _Bowling Arcade Embedded System_ 
 
 **Proposal**
 https://docs.google.com/document/d/13-G00hZrmWaFIEPduWivd1utZvj9fHAGh3XmUC14DbA/edit?usp=sharing
